@@ -141,8 +141,6 @@ function create ()
 }
 
 function handleHole(player, hole) {
-    console.log('hole');
-    // window.location.replace('https://stackoverflow.com/questions/503093/how-do-i-redirect-to-another-webpage');
     if (redirect === 0) {
         window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank').focus();
         redirect = 1;
