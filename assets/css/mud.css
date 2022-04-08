@@ -1,0 +1,12 @@
+canvas {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: lightslategray;
+}
